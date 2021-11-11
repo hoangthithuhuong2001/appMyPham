@@ -44,6 +44,9 @@ dependencies {
     implementation 'com.huawei.hms:maps:6.0.1.304'
 
 
+    implementation 'com.huawei.hms:ads-identifier:3.4.39.302'
+    implementation 'com.huawei.hms:ads-installreferrer:3.4.39.302'
+    implementation 'com.huawei.hms:ads-lite:13.4.39.302'
 }
 apply plugin: 'com.huawei.agconnect'
 
